@@ -1,6 +1,3 @@
----
-title: Yep
----
 
 ### Welcome to GitHub Pages WOOO test.
 This automatic page generator is the easiest way to create beautiful 
